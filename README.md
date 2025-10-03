@@ -32,6 +32,7 @@ https://github.com/user-attachments/assets/e0a02de4-238c-490e-aa99-52b74864ac36
   <a href="https://youtube.com/channel/UCl77jQD3Fp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3Fp__z1oRxm-fA?style=social" /> <br>
   <a name=Shsuryaresz&label=VIEWS&style=flat-square&color=orange" />
 </p>
+          
 ### Spotify 🔭
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
